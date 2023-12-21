@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+npx prisma init --datasource-provider sqlite
+
 ```bash
 npm run dev
 # or
